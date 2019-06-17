@@ -1,4 +1,4 @@
-# KernelizedManifoldMapping
+# Kernelized Manifold Mapping
 This is the code corresponding to our CVPR 2019 paper, ["A Kernelized Manifold Mapping to Diminish the Effect of Adversarial Perturbations"](http://openaccess.thecvf.com/content_CVPR_2019/html/Taghanaki_A_Kernelized_Manifold_Mapping_to_Diminish_the_Effect_of_Adversarial_CVPR_2019_paper.html).
 
 If you use our code, please cite our paper: 
